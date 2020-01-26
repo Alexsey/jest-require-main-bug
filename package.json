@@ -1,0 +1,10 @@
+{
+  "name": "jest-main-require-bug",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
